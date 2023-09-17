@@ -1,0 +1,26 @@
+---
+id: 64815084
+name: Evo-Branch
+type: Trap Card
+frameType: trap
+desc: Target 1 face-up Reptile-Type monster you control; destroy it and Special Summon
+  1 "Evoltile" monster in face-down Defense Position from your Deck.
+race: Normal
+archetype: Evoltile
+card_sets:
+- set_name: Order of Chaos
+  set_code: ORCS-EN074
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.43'
+card_images:
+- id: 64815084
+  image_url: https://images.ygoprodeck.com/images/cards/64815084.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/64815084.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/64815084.jpg
+card_prices:
+- cardmarket_price: '0.10'
+  tcgplayer_price: '0.12'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'
